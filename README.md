@@ -1,5 +1,5 @@
 # Project detail
-This is my website which is still in woring Phase under Geeks for Geeks hackfest Hackathon(NCR).
+This is my website which is still in woring Phase under Geeks for Geeks hackfest Hackathon(NCR)..
 # screenshot
 
 https://github.com/guptaravimp/HealthCare-Innovation-/assets/142169363/71f7436a-2ae8-4b37-bd0a-591294f7c403
